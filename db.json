@@ -1,0 +1,149 @@
+{
+  "songs": [
+    {
+      "author": "T.R.I & CÁ",
+      "name": "Ánh Sao Và Bầu Trời",
+      "url": "http://api.mp3.zing.vn/api/streaming/audio/ZZ909ZEI/320",
+      "image": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_webp/cover/e/2/5/b/e25b4db6440e1b062562836b9d687418.jpg",
+      "id": 0
+    },
+    {
+      "author": "Phạm Nguyên Ngọc",
+      "name": "Có Cơn Đau Quên Đặt Tên",
+      "url": "http://api.mp3.zing.vn/api/streaming/audio/ZZEWECCF/320",
+      "image": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_webp/cover/e/f/7/7/ef77440009d6a0d0827959c0fd8a9314.jpg",
+      "id": 1
+    },
+    {
+      "author": "W/n Dương ft Nâu",
+      "name": "3 1 0 7",
+      "url": "http://api.mp3.zing.vn/api/streaming/audio/ZWAFWFI0/320",
+      "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_webp/cover/4/6/6/8/4668e5167359c82b96bb254e96c4d0a0.jpg",
+      "id": 2
+    },
+    {
+      "author": "W/n Dương ft Nâu",
+      "name": "3 1 0 7 - 2",
+      "url": "http://api.mp3.zing.vn/api/streaming/audio/ZO6EIB7B/320",
+      "image": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_webp/cover/9/a/1/0/9a1011421acc7ed77033ebabaa087988.jpg",
+      "id": 3
+    },
+    {
+      "author": "JACK",
+      "name": "Đom Đóm",
+      "url": "http://api.mp3.zing.vn/api/streaming/audio/ZOZ0WD80/320",
+      "image": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_webp/cover/f/e/9/8/fe9875941d98fbbcb8aedc8960ccbc94.jpg",
+      "id": 4
+    },
+    {
+      "author": "Bùi Anh Tuấn",
+      "name": "Hẹn Một Mai",
+      "url": "http://api.mp3.zing.vn/api/streaming/audio/ZW78679U/320",
+      "image": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_webp/covers/7/f/7f7695a4732d658580e2919f1b821faf_1477839987.jpg",
+      "id": 5
+    },
+    {
+      "author": "Vũ",
+      "name": "Lạ Lùng",
+      "url": "http://api.mp3.zing.vn/api/streaming/audio/ZW8W9UBE/320",
+      "image": "https://i.vietgiaitri.com/2021/11/11/vu-tro-lai-voi-buoc-qua-nhau-viet-tiep-cau-chuyen-tinh-yeu-trong-buoc-qua-mua-co-don-877-6149798.jpg",
+      "id": 6
+    },
+    {
+      "author": "Miu Lê",
+      "name": "Giá Như Cô Ấy Chưa Xuất Hiện",
+      "url": "http://api.mp3.zing.vn/api/streaming/audio/ZWAFW89F/320",
+      "image": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_webp/cover/0/d/5/f/0d5fd64189282d2411ca939024f7047e.jpg",
+      "id": 7
+    },
+    {
+      "author": "Hà Anh Tuấn",
+      "name": "Tháng 4 Là Lời nói Dối Của Em",
+      "url": "http://api.mp3.zing.vn/api/streaming/audio/ZZ96BFA6/320",
+      "image": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_webp/cover/0/5/1/6/0516f514dcc0e9c0790a76bdd6af5936.jpg",
+      "id": 8
+    },
+    {
+      "author": "AMEE",
+      "name": "Thay Mọi Cô Gái Yêu Anh",
+      "url": "http://api.mp3.zing.vn/api/streaming/audio/ZZOUI007/320",
+      "image": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_webp/cover/c/4/a/4/c4a49014b42161249400b76a35cf5b99.jpg",
+      "id": 9
+    },
+    {
+      "author": "Alan Walker",
+      "name": "Faded",
+      "url": "https://cdn.discordapp.com/attachments/775740994595323954/782129443250503720/Alan_Walker_-_FadedMP3_128K.mp3",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc02d416c309a68b04dc94576",
+      "id": 10
+    },
+    {
+      "author": "The Chainsmokers",
+      "name": "Closer",
+      "url": "https://cdn.discordapp.com/attachments/775740994595323954/782130132722384907/The_Chainsmokers_-_Closer_Lyric_ft._HalseyMP3_128K.mp3",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb7e223c8c0a40da75838373b9",
+      "id": 11
+    },
+    {
+      "author": "Alan Walker",
+      "name": "Sing me to sleep",
+      "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741536591806484/Alan_Walker_-_Fade_NCS_ReleaseMP3_160K.mp3",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc02d416c309a68b04dc94576",
+      "id": 12
+    },
+    {
+      "author": "Alan Walker",
+      "name": "Alone",
+      "url": "https://cdn.discordapp.com/attachments/775740994595323954/782126454690938890/Alan_Walker_-_AloneMP3_128K.mp3",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc02d416c309a68b04dc94576",
+      "id": 13
+    },
+    {
+      "author": "Charlie Puth",
+      "name": "We don't talk anymore",
+      "url": "https://cdn.discordapp.com/attachments/775740994595323954/782129797403770900/Charlie_Puth_-_We_Don_t_Talk_Anymore_feat._SelenaMP3_128K.mp3",
+      "image": "https://i.scdn.co/image/ab67616d0000b273633a2d775747bccfbcb17a45",
+      "id": 14
+    },
+    {
+      "author": "MiuLe",
+      "name": "Vì Mẹ Anh Bắt Chia Tay",
+      "url": "http://api.mp3.zing.vn/api/streaming/audio/ZZDI9B7U/320",
+      "image": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_webp/cover/1/b/8/9/1b8958017b04a663eb8c093905dd4d85.jpg",
+      "id": 15
+    },
+    {
+      "author": "Mr.Siro",
+      "name": "Một Bước Yêu Vạn Dặm Đau",
+      "url": "http://api.mp3.zing.vn/api/streaming/audio/ZWABWOFZ/320",
+      "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_webp/cover/4/d/6/2/4d62b014dddf2702af85e1d14d5c0a0b.jpg",
+      "id": 16
+    }
+  ],
+  "playlists": [
+    {
+      "id": 0,
+      "imageUrl": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_webp/cover/f/e/2/8/fe286c08a4a106321daf4499c4d86dc6.jpg",
+      "title": "Top 100 Bài Hát Nhạc Trẻ Hay Nhất",
+      "subtitle": "Zing MP3"
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_webp/cover/1/2/1/f/121fde6fe3898bc64cf04b716ddbe590.jpg",
+      "title": "4U - On Repeat",
+      "subtitle": "Zing MP3"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://photo-playlist-zmp3.zmdcdn.me/s2/user-playlist?src=HavwqN7EvKCI1oYSFOdq0r5DQfniYV03058wXs3Th5G01ZRIFTog1045PjKxY_i615DcW6sD-r4Q32M6OSkfMb5ERDugd-0D708hpsg8gXmSL2kVQjxc6000BfiuYEGUM0Tyd6FQunrU22-TCDApJ5rVUyinchyB3rCzcJhH_K9G66dGQfon1K5O9feldEu55rXvWYZIvW13Mts5VzMrKH4CA8L_XRy2G5OfXNpOlm8T1J_OD8cpH4yET9fzr_WG1byvrZh6k51CJpc5Ef2u0m4U8e1eaBW424iaq3EMxrCFJtc6RiNa3mSTVjbgahP7MGb_rNq&size=thumb/240_240",
+      "title": "List music",
+      "subtitle": "Zing MP3"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://photo-playlist-zmp3.zmdcdn.me/s1/user-playlist?src=HavwqN7EvKCI1oYSFOdq0rPDQPmwYVu3KL5bYZtPgLvK2c7TQDBu2mXSOeatrFqFNLbbspIAgWf32tJTECpu0GX9FOLpcB5MHGLwb3FP-nD5LdgMCuhZGby2TC0-Y-iHLL5qmcw9kqi5Mt7DFOQzIrHL9fuzaE9U0rbWp3RRe1TS4ZI5PfRiK4rITCzsbhzG6r8dWYUDkW8RKY2BSelgMHq5Tunsrhm4JWuhX2JHum0PN6FQCD3lHajNA9XvZgGI0WPbr3wVv5T8GsM5Ff7a1b0OSuyynku904ibZZkKxma66dZSQScmN5GIVTLhoEfBM5CZsNq&size=thumb/240_240",
+      "title": "Refer",
+      "subtitle": "Zing MP3"
+    }
+  ]
+}

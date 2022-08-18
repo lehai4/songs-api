@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "query-string": "^7.1.1"
+  },
+  "name": "app-music",
+  "version": "1.0.0",
+  "description": "app-music",
+  "main": "main.js",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main.js",
+    "start": "node main.js"
+  },
+  "keywords": [
+    "json-server"
+  ],
+  "author": "LeChiHai",
+  "license": "MIT"
+}

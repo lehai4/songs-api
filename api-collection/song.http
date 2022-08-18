@@ -1,0 +1,64 @@
+@baseUrl = http://localhost:3000/api
+#Category
+@baseResource = songs
+# @name getAllSong
+GET {{baseUrl}}/{{baseResource}}
+
+###############################
+
+# @name filter
+#_lte: <, _gte: >
+GET {{baseUrl}}/{{baseResource}}?author_lte=CÁ
+
+################################
+
+# @name filter
+# use '_like' to filter
+GET {{baseUrl}}/{{baseResource}}?id_like=0
+
+################################
+
+# @name pagination
+GET {{baseUrl}}/{{baseResource}}?_page=1&_limit=2
+
+################################
+
+# @name searchFullText
+
+GET  {{baseUrl}}/{{baseResource}}?q=T.R.I
+Content-Type: application/json
+
+################################
+
+# @name addSong
+
+POST {{baseUrl}}/{{baseResource}}
+Content-Type: application/json  
+
+{
+    "author": "Mr.Siro",
+    "name": "Một Bước Yêu Vạn Dặm Đau",
+    "url": "http://api.mp3.zing.vn/api/streaming/audio/ZWABWOFZ/320",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_webp/cover/4/d/6/2/4d62b014dddf2702af85e1d14d5c0a0b.jpg"
+    
+}
+
+################################
+
+# @name updateSong
+
+PATCH  {{baseUrl}}/{{baseResource}}/id
+Content-Type: application/json
+
+{
+    "id":15
+}
+
+################################
+
+# @name removeSong
+
+DELETE  {{baseUrl}}/{{baseResource}}/16
+Content-Type: application/json
+
+
