@@ -14,7 +14,6 @@
       "url": "http://api.mp3.zing.vn/api/streaming/audio/ZZEWECCF/320",
       "image": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_webp/cover/e/f/7/7/ef77440009d6a0d0827959c0fd8a9314.jpg",
       "album": "Có Cơn Đau Quên Đặt Tên (Single)",
-
       "id": 1
     },
     {
@@ -22,6 +21,7 @@
       "name": "3 1 0 7",
       "url": "http://api.mp3.zing.vn/api/streaming/audio/ZWAFWFI0/320",
       "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_webp/cover/4/6/6/8/4668e5167359c82b96bb254e96c4d0a0.jpg",
+      "album": "3 1 0 7",
       "id": 2
     },
     {
@@ -29,6 +29,7 @@
       "name": "3 1 0 7 - 2",
       "url": "http://api.mp3.zing.vn/api/streaming/audio/ZO6EIB7B/320",
       "image": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_webp/cover/9/a/1/0/9a1011421acc7ed77033ebabaa087988.jpg",
+      "album": "3 1 0 7 - 2",
       "id": 3
     },
     {
@@ -36,6 +37,7 @@
       "name": "Đom Đóm",
       "url": "http://api.mp3.zing.vn/api/streaming/audio/ZOZ0WD80/320",
       "image": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_webp/cover/f/e/9/8/fe9875941d98fbbcb8aedc8960ccbc94.jpg",
+      "album": "Đom Đóm (Single)",
       "id": 4
     },
     {
@@ -43,6 +45,7 @@
       "name": "Hẹn Một Mai",
       "url": "http://api.mp3.zing.vn/api/streaming/audio/ZW78679U/320",
       "image": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_webp/covers/7/f/7f7695a4732d658580e2919f1b821faf_1477839987.jpg",
+      "album": "4 Năm 2 Chàng 1 Tình Yêu OST",
       "id": 5
     },
     {
@@ -57,13 +60,15 @@
       "name": "Giá Như Cô Ấy Chưa Xuất Hiện",
       "url": "http://api.mp3.zing.vn/api/streaming/audio/ZWAFW89F/320",
       "image": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_webp/cover/0/d/5/f/0d5fd64189282d2411ca939024f7047e.jpg",
+      "album": "Giá Như Cô Ấy Chưa Xuất Hiện (Single)",
       "id": 7
     },
     {
       "author": "Hà Anh Tuấn",
-      "name": "Tháng 4 Là Lời nói Dối Của Em",
+      "name": "Tháng 4 Là Lời Nói Dối Của Em",
       "url": "http://api.mp3.zing.vn/api/streaming/audio/ZZ96BFA6/320",
       "image": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_webp/cover/0/5/1/6/0516f514dcc0e9c0790a76bdd6af5936.jpg",
+      "album": "Fragile",
       "id": 8
     },
     {
@@ -71,6 +76,7 @@
       "name": "Thay Mọi Cô Gái Yêu Anh",
       "url": "http://api.mp3.zing.vn/api/streaming/audio/ZZOUI007/320",
       "image": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_webp/cover/c/4/a/4/c4a49014b42161249400b76a35cf5b99.jpg",
+      "album": "thay mọi cô gái yêu anh (Single)",
       "id": 9
     },
     {
@@ -113,6 +119,7 @@
       "name": "Vì Mẹ Anh Bắt Chia Tay",
       "url": "http://api.mp3.zing.vn/api/streaming/audio/ZZDI9B7U/320",
       "image": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_webp/cover/1/b/8/9/1b8958017b04a663eb8c093905dd4d85.jpg",
+      "album": "Vì Mẹ Anh Bắt Chia Tay (Single)",
       "id": 15
     },
     {
@@ -120,6 +127,7 @@
       "name": "Một Bước Yêu Vạn Dặm Đau",
       "url": "http://api.mp3.zing.vn/api/streaming/audio/ZWABWOFZ/320",
       "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_webp/cover/4/d/6/2/4d62b014dddf2702af85e1d14d5c0a0b.jpg",
+      "album": "Một Bước Yêu Vạn Dặm Đau",
       "id": 16
     }
   ],
